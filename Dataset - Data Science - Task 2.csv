@@ -1,0 +1,11 @@
+Make,Model,Year,Mileage,Fuel Type,Gearbox Type,Price
+Toyota,Camry,2010,120000,Petrol,Manual,8000
+Ford,Focus,2008,100000,Diesel,Manual,5000
+BMW,X5,2015,80000,Petrol,Automatic,25000
+Tesla,Model S,2017,60000,Electric,Automatic,45000
+Ford,Focus,2005,150000,Diesel,Manual,3000
+,,2012,90000,Petrol,Manual,7000
+BMW,,2013,75000,Diesel,Automatic,20000
+Toyota,Camry,2010,,Petrol,Manual,
+Ford,Focus,2010,130000,Diesel,,6000
+Tesla,Model 3,2019,30000,Electric,Automatic,35000
